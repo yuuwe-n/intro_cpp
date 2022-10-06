@@ -79,9 +79,33 @@ look at it again later on.
 > problem if you have a problem with it, then come to it later on if it is
 > important
 
+Don't go through a book too fast or slow. Pace yourself. Maybe 1 - 2 chapters a week (be consistent with your learning)
+
 # FAQ
 
 How does compiling work?
 > compilers, read about compiler design. `man clang`, has a general overview of
 > compilation steps.
 
+Should I learn 2 languages at once?
+> I don't recommend it. I recommend either learning 1 or the other. If you have
+> to choose, flip a coin. (also I recommend you do python first if this is your
+> first language, but if you have to do C++ anyways, the book recommened above
+> seems to do a very good job in teaching programming concepts)
+
+> Learning languages are easy, learning how to program initally and learning algorithms are the hard part.
+
+What's the difference between a compiler and interpreter
+> In layman's terms, compilers will read through the code, and convert your
+> code into an executable file in binary/asm (example .exe file on windows). 
+
+> An interpreter like python cannot convert your code into an executable. It
+> will go line by line and run each line sequentially. You can run a python
+> file
+> like `python file.py`, python needs to be installed on the computer to run
+> the program. With an exe file, it will run on whatever machine that is
+> compatible with the architecture. 
+
+> This is mostly why, intepreters are slower than compilers since interpreters
+> have to translate code on the run. While compilers translate the code
+> beforehand.
