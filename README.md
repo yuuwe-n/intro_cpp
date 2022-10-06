@@ -62,7 +62,7 @@ end.
 > These are tips that apply to programming in general
 
 Try understanding the code segments presented in the code. For notes, don't
-take notes on every single syntax line, YOU WILL LEARN SYNTAX WHEN YOU CODE.
+take notes on every single syntax line, *you will learn syntax when you code*.
 
 When beginning, I reccomend to write the code segments inside your IDE/text
 editor. It helps you learn syntax/understand the code. I especially do this,
